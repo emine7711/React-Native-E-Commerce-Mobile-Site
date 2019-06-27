@@ -1,0 +1,21 @@
+{
+  "name": "web-8-day-3",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "prop-types": "^15.7.2",
+    "react-native-axios": "0.17.1",
+    "react-native-image-zoom-viewer": "2.2.26",
+    "react-native-keyboard-aware-scroll-view": "0.8.0",
+    "react-native-paper": "2.2.8",
+    "react-native-textinput-effects": "0.5.1",
+    "react-native-vector-icons": "6.4.2",
+    "react-navigation": "3.11.0"
+  }
+}
